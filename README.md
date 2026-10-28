@@ -1,0 +1,2 @@
+# CuramSmartTraining
+Smart training repository
